@@ -2,6 +2,7 @@
 
 members = [
     "bad-stack",
+    "ok-stack",
 ]
 
 resolver = "2"
