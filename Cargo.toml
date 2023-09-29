@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "bad-stack",
+]
+
+resolver = "2"
