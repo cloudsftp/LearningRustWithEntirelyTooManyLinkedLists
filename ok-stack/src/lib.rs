@@ -121,7 +121,7 @@ mod test {
 
     #[test]
     fn basics() {
-        let mut list = List::new();
+        let mut list = List::<i32>::new();
 
         // Check empty list behaves right
         assert_eq!(list.pop(), None);

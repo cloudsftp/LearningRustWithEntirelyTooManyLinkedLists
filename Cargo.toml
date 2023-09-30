@@ -2,6 +2,7 @@
 
 members = [
     "bad-stack",
+    "persistent-stack",
     "ok-stack",
 ]
 
