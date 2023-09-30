@@ -4,6 +4,7 @@ members = [
     "bad-stack",
     "persistent-stack",
     "ok-stack",
+    "bad-safe-deque",
 ]
 
 resolver = "2"
