@@ -15,5 +15,9 @@ name = "ok-stack"
 version = "0.1.0"
 
 [[package]]
+name = "ok-unsafe-queue"
+version = "0.1.0"
+
+[[package]]
 name = "persistent-stack"
 version = "0.1.0"

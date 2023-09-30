@@ -5,6 +5,7 @@ members = [
     "persistent-stack",
     "ok-stack",
     "bad-safe-deque",
+    "ok-unsafe-queue",
 ]
 
 resolver = "2"
